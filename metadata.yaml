@@ -19,6 +19,8 @@ language: es
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Retrato de la Lozana Andaluza
 
   En lengua española muy clarísima, compuesto en Roma.'
